@@ -41,5 +41,5 @@ We encourage contributions from our community! If you'd like to contribute to th
 
 ---
 
-**GDSC DA-IICT**  
+**GDGC DA-IICT**  
 Learn. Build. Share. Grow.
